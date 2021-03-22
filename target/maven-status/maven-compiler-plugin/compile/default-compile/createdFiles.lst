@@ -1,0 +1,6 @@
+principal/NewMain.class
+service/TemperaturasServiceImpl.class
+model/Ficha.class
+service/TemperaturasService.class
+service/DatosLocator.class
+service/TemperaturasFactory.class
